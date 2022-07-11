@@ -1,4 +1,4 @@
-# DankFarm-
+# DankFarm+
 
 DANKFARM+ IS A DISCORD DANKMEMER AUTOFARM
 
