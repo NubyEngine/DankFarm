@@ -30,6 +30,7 @@ UPDATE V1.0.0
 [+] ADDED RANDOMIZED DELAYS
 [+] ADDED COMMANDS (pls beg , pls hunt , pls meme , pls dig , pls hunt , pls bal)
 [+] ADDED TOKEN AND CHANNEL ID INPUTS
+[+] UNDETECTABLE BY DANK MEMER
 ==================================================================================================================
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
